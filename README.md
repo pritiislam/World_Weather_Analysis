@@ -9,6 +9,7 @@ This week's task includes developing a travel application that assists users wit
 
 ## Results
 Vacation Search Function
+![Vacation Search Function](https://github.com/pritiislam/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)
 
 Vacation Itinerary Function
 
