@@ -12,5 +12,8 @@ Vacation Search Function
 ![Vacation Search Function](https://github.com/pritiislam/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)
 
 Vacation Itinerary Function
+![Vacation Itinerary Function](https://github.com/pritiislam/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
+
+![Vacation Itinerary Function](https://github.com/pritiislam/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 
 
